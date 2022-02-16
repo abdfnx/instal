@@ -4,7 +4,6 @@ dist
 # instal files
 *.exe
 *.exe~
-instal
 
 # dependency directories
 vendor
