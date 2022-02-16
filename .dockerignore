@@ -1,0 +1,11 @@
+# build dirs
+dist
+
+# instal files
+*.exe
+*.exe~
+instal
+
+# dependency directories
+vendor
+node_modules
