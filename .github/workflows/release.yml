@@ -87,10 +87,7 @@ jobs:
           username: ${{ secrets.DOCKER_ID }}
           password: ${{ secrets.DOCKER_ACCESS_TOKEN }}
 
-      - name: Build instal from Docker
-        run: task build
-
       - name: Build Tran Containers
         run: |
+          task build
           task build-instal-container
-          task build-instal-full-container
