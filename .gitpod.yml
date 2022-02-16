@@ -1,0 +1,5 @@
+tasks:
+  - init: go get -d ./...
+    command: |
+      brew install go-task/tap/go-task
+      curl -fsSL https://bit.ly/instal-cli | bash
