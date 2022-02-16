@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/abdfnx/instal/main/.github/assets/logo.svg" height="120px" />
 </p>
 
-![preview](https://user-images.githubusercontent.com/64256993/154240520-23a503c6-fa32-4562-8b24-d2967019373b.gif)
+![preview](https://user-images.githubusercontent.com/64256993/154241761-b8b74a9f-4f0b-4ca5-8549-b7e18ac91586.gif)
 
 > 🛰️ Install any binary app from a script URL.
 
