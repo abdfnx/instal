@@ -4,15 +4,17 @@ go 1.17
 
 require (
 	github.com/AlecAivazis/survey/v2 v2.3.2
+	github.com/abdfnx/gosh v0.3.8
 	github.com/abdfnx/looker v0.1.0
 	github.com/abdfnx/resto v0.1.6
 	github.com/briandowns/spinner v1.18.1
+	github.com/charmbracelet/lipgloss v0.5.0
 	github.com/google/shlex v0.0.0-20191202100458-e7afc7fbc510
 	github.com/mattn/go-colorable v0.1.12
 	github.com/mattn/go-isatty v0.0.14
 	github.com/mgutz/ansi v0.0.0-20200706080929-d51e80ef957d
 	github.com/muesli/reflow v0.3.0
-	github.com/muesli/termenv v0.9.0
+	github.com/muesli/termenv v0.11.1-0.20220212125758-44cd13922739
 	github.com/spf13/cobra v1.3.0
 	github.com/spf13/pflag v1.0.5
 	github.com/tidwall/gjson v1.14.0
