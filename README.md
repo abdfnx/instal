@@ -6,6 +6,8 @@
 
 > 🛰️ Install any binary app from a script URL.
 
+this cli app is an alternative to the **curl**, **wget** and **fetch** in unix, and **iwr** in windows.
+
 ## Installation
 
 ### Using script
