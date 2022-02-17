@@ -9,7 +9,7 @@ require (
 	github.com/abdfnx/looker v0.1.0
 	github.com/abdfnx/resto v0.1.6
 	github.com/briandowns/spinner v1.18.1
-	github.com/charmbracelet/bubbles v0.10.2
+	github.com/charmbracelet/bubbles v0.10.3
 	github.com/charmbracelet/bubbletea v0.20.0
 	github.com/charmbracelet/lipgloss v0.5.0
 	github.com/google/shlex v0.0.0-20191202100458-e7afc7fbc510
