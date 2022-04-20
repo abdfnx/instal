@@ -20,7 +20,7 @@ require (
 	github.com/muesli/termenv v0.11.1-0.20220212125758-44cd13922739
 	github.com/spf13/cobra v1.4.0
 	github.com/spf13/pflag v1.0.5
-	github.com/tidwall/gjson v1.14.0
+	github.com/tidwall/gjson v1.14.1
 	golang.org/x/sys v0.0.0-20211210111614-af8b64212486
 	golang.org/x/term v0.0.0-20210927222741-03fcf44c2211
 )
